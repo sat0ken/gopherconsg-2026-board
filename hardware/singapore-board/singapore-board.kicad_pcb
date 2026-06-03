@@ -6365,6 +6365,18 @@
 			)
 		)
 	)
+	(gr_text "VCC"
+		(at 139.5 141.6 0)
+		(layer "B.SilkS")
+		(uuid "bfa59563-7608-4c0d-9843-0510d419b803")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "UPDI"
 		(at 143.1 141.6 0)
 		(layer "B.SilkS")
@@ -6381,18 +6393,6 @@
 		(at 146.6 141.5 0)
 		(layer "B.SilkS")
 		(uuid "a6fc2ac1-d047-4a6e-9427-b4c01caae598")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.1)
-			)
-			(justify left bottom mirror)
-		)
-	)
-	(gr_text "VCC"
-		(at 139.5 141.6 0)
-		(layer "B.SilkS")
-		(uuid "bfa59563-7608-4c0d-9843-0510d419b803")
 		(effects
 			(font
 				(size 1 1)
